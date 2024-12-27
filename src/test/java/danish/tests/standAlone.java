@@ -20,7 +20,7 @@ public class standAlone {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		// WebDriverManager.chromedriver().setup();
-
+//ci/cd modified
 		// implicit wait
 		// used for sync issues
 		String productName = "ZARA COAT 3";
